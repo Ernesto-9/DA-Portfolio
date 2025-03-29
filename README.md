@@ -6,4 +6,4 @@ Created as part of the Google Data Analytics Certificate.
 
 **Tools used:** R, RMarkdown, ggplot2, dplyr, lubridate
 
-👉 [View full report](https://ernesto-9.github.io/DA-Portfolio/Bellabeat.html)
+👉 [View full report](https://ernesto-9.github.io/DA-Portfolio/)
